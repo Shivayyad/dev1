@@ -8,6 +8,15 @@ pipeline {
     tools {
         jdk 'JDK 11'
         maven 'Maven 3.6.3'
+verg
+erg
+
+g4t
+g
+rtb
+rt
+b
+
     }
 
     environment {
